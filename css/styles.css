@@ -1,9 +1,10 @@
 * {
     box-sizing: border-box;
+    color: #F4E3E3;
 }
 
 body {
-    background: #F5F4EF;
+    background: #000305;
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #000305;
     font-size: 14px;
